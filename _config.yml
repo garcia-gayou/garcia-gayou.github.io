@@ -2,17 +2,17 @@
 title: Diego Gayou
 subtitle: Estudiante Universitario
 email: garciagayou@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Estudio Ciencia de Datos y Matemáticas Aplicadas en el ITAM
 baseurl: "" # Empty for user/organization sites
 url: https://garcia-gayou.github.io/
 author:
   name: Diego Gayou
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: ""
+city: Ciudad de México
+state: ""
+zip_code: 01049
+country: México
+phone: +52 55 5334 8082
 
 # Homepage tiles
 tiles-source: pages # Accepts "posts" or "pages"
