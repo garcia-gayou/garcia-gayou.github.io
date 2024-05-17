@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conóceme
+title: Sobre Mí
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Conóceme</h1>
+			<h1>Sobre Mí</h1>
 		</header>
 
 <!-- Content -->
@@ -45,7 +45,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Conóceme</h2>
+<h2 id="elements">Sobre Mí</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
