@@ -7,9 +7,9 @@ baseurl: "" # Empty for user/organization sites
 url: https://garcia-gayou.github.io/
 author:
   name: Diego Gayou
-street_address: ""
+street_address:
 city: Ciudad de México
-state: ""
+state:
 zip_code: 01049
 country: México
 phone: +52 55 5334 8082
@@ -24,8 +24,8 @@ socials:
   GitLab:
   Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrewbanchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/diego-garc%C3%ADa-gayou-ruiz-839500221/
+  Twitter:
   Facebook:
   Slack:
 
