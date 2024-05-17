@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Conóceme
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -45,7 +45,7 @@ nav-menu: true
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">Conóceme</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
