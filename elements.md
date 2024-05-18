@@ -3,7 +3,6 @@ layout: page
 title: Sobre Mí
 description: Algunos intereses
 image: assets/images/pic01.jpg
-nav-menu: true
 ---
 
 <!-- Main -->
