@@ -2,8 +2,7 @@
 layout: page
 title: Sobre Mí
 description: Algunos intereses
-image: assets/images/pic01.jpg
----
+image: assets/images/Viniles.jpeg
 
 <!-- Main -->
 <div id="main" class="alt">
