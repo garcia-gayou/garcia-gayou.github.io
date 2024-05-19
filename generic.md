@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Académico
+description: Mi Trayectoria
+image: assets/images/Moon.jpeg
 nav-menu: true
 ---
 

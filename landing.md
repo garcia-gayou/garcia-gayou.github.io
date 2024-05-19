@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Proyectos
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Algunas cosas que he hecho'
 image: assets/images/pic07.jpg
 ---
 
