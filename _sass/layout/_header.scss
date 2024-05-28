@@ -50,13 +50,13 @@
 
         &:hover {
             strong {
-                background-color: black; // Cambia el color de fondo a negro en lugar de _palette(highlight)
+                background-color: _palette(highlight);
             }
         }
 
         &:active {
             strong {
-                background-color: desaturate(darken(black, 15), 5); // Cambia el color al hacer clic
+                background-color: desaturate(darken(_palette(highlight), 15), 5);
             }
         }
     }
