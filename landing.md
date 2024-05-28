@@ -1,7 +1,6 @@
 ---
 title: Proyectos
 layout: landing
-description: 'Algunas cosas que he hecho'
 image: assets/images/Mapas.jpg
 ---
 
@@ -11,10 +10,7 @@ image: assets/images/Mapas.jpg
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>En esta sección describo brevemente algunos proyectos que he realizado a lo largo de mi carrera. Todos están vinculados con sus respectivos repositorios en GitHub, por lo que les invito a conocer más sobre elos si cualquiera les llama la atención.</p>
+		<p>En esta sección describo brevemente algunos proyectos que he realizado a lo largo de mi carrera. Todos están vinculados con sus respectivos repositorios en GitHub, por lo que les invito a conocer más sobre ellos si cualquiera les llama la atención.</p>
 	</div>
 </section>
 
