@@ -17,7 +17,7 @@ image: assets/images/Viniles.jpeg
 
 		<div class="row">
 			<div class="6u 12u$(small)">
-				<img src="assets/images/Moon.jpeg" alt="Foto de Diego" style="width: 100%; height: auto;">
+				<img src="assets/images/Batería.jpg" alt="Foto de Diego" style="width: 100%; height: auto;">
 			</div>
 			<div class="6u$ 12u$(small)">
 				<h3>Intereses Personales</h3>
