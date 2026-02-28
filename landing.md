@@ -48,5 +48,23 @@ image: assets/images/Mapas.jpg
 		</div>
 	</section>
 
+	<section>
+        <a href="https://github.com/ULB-INFO-H-515/distributed-retrieval-augmented-generation-team-7">
+            <img src="{% link assets/images/Vector.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Sistema RAG Distribuido con Apache Spark</h3>
+                </header>
+				<p>Creamos un sistema de Generación Aumentada por Recuperación (RAG) con Apache Spark, para procesar grandes volúmenes de texto y generar bancos de preguntas de examen. Para ello, implementamos un pipeline con chunking en paralelo y generación de embeddings. Evaluamos el impacto de diferentes métricas en la recuperación de contexto para alimentar un modelo de lenguaje, logrando generar preguntas complejas sobre sistemas distribuidos.</p>
+				
+                <ul class="actions">
+                    <li><a href="https://github.com/ULB-INFO-H-515/distributed-retrieval-augmented-generation-team-7" class="button">Ver más</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
 </section>
 </div>
