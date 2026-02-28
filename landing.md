@@ -40,7 +40,7 @@ image: assets/images/Mapas.jpg
 				<header class="major">
 					<h3>Predicción de Movimientos con Señales EMG</h3>
 				</header>
-				<p>Este proyecto explora el uso de Machine Learning para predecir los ángulos continuos de las articulaciones de la mano a partir de señales electromiográficas (sEMG), con posibles aplicaciones en el control natural de prótesis mioeléctricas. Analizamos dos conjuntos de datos: uno de posturas guiadas y otro más complejo de movimientos naturales en entornos de realidad virtual. Entrenamos modelos como Random Forests, Gradient Boosting y SVR utilizando características en el dominio del tiempo y matrices de covarianza riemannianas. Finalmente, construimos un meta-modelo mediante técnicas de <em>ensemble learning</em> (stacking) que logró superar el rendimiento de todos los algoritmos individuales.</p>
+				<p>Este proyecto explora el uso de Machine Learning para predecir poses de mano a partir de señales electromiográficas (EMG), con posibles aplicaciones en el control de prótesis. Entrenamos modelos como Random Forests, Gradient Boosting y SVR utilizando características en el dominio del tiempo y matrices de covarianza riemannianas. Finalmente, construimos un meta-modelo mediante técnicas de ensemble que logró superar el rendimiento de todos los algoritmos individuales.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/ULB-INFO-F-422/pose-estimation-from-emg-signal-team-17" class="button">Ver más</a></li>
 				</ul>
