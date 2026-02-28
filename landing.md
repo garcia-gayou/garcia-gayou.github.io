@@ -33,7 +33,7 @@ image: assets/images/Mapas.jpg
 
     <section>
 		<a href="https://github.com/ULB-INFO-F-422/pose-estimation-from-emg-signal-team-17" class="image">
-			<img src="{% link assets/images/EMG.png %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/Poses.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
