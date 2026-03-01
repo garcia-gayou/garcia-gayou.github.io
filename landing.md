@@ -66,5 +66,22 @@ image: assets/images/Mapas.jpg
         </div>
     </section>
 
+	<section>
+        <a href="https://github.com/garcia-gayou/stadium_evac" class="image">
+            <img src="{% link assets/images/Evacuacion.png %}" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Simulación de Evacuación: Estadio GNP</h3>
+                </header>
+                <p>Este proyecto simula la evacuación de emergencia del Estadio GNP utilizando modelado basado en agentes y la dinámica de multitudes del modelo de fuerza social (Social Force Model). Cada agente posee características únicas y navega hacia las salidas evitando colisiones con obstáculos y otras personas. El objetivo fue analizar el comportamiento de multitudes bajo estrés, identificar cuellos de botella y evaluar la efectividad de los protocolos de seguridad en eventos masivos.</p>
+                <ul class="actions">
+                    <li><a href="https://github.com/garcia-gayou/stadium_evac" class="button">Ver más</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
 </section>
 </div>
